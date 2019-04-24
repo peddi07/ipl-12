@@ -1,4 +1,4 @@
-from main import db, Fighter
+from run import db, Fighter
 
 # Create all the tables
 db.create_all()
